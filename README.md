@@ -23,7 +23,7 @@
 
 > Role              : Founder & Developer
 
-> Company           : Nlinqs
+> Company           : Nlinqes, Storagge
 
 > Focus             : Full Stack Development
 
@@ -43,32 +43,41 @@ const haarsh = {
 
     title: "Founder & Developer",
 
-    company: "Nlinqs",
+    companies: ["Nlinqes", "Storagge"],
 
     code: [
         "JavaScript",
+        "TypeScript",
         "Python",
         "Node.js",
         "React",
-        "Next.js"
+        "Next.js",
+        "Tailwind CSS"
+    ],
+
+    databases: [
+        "MongoDB",
+        "MySQL",
+        "Supabase",
+        "Firebase"
     ],
 
     passions: [
         "Cyber Security",
+        "Artificial Intelligence",
         "Innovation",
-        "Startups",
-        "Technology"
+        "Technology",
+        "Open Source"
     ],
 
     currentlyBuilding: [
-        "Nlinqs",
-        "Web Applications",
+        "AI Tools Platform",
         "Security Projects",
         "Startup MVPs"
     ],
 
     mission:
-        "Turning ideas into products."
+        "Turning ideas into impactful products."
 }
 ```
 
@@ -76,9 +85,9 @@ const haarsh = {
 
 # 🚀 FOUNDER
 
-## Nlinqs
+## Nlinqes
 
-> Building modern digital experiences and innovative products.
+> Building modern digital experiences and innovative software products.
 
 ```yaml
 Role:
@@ -87,39 +96,40 @@ Role:
 Focus:
   - Product Development
   - Startups
+  - Artificial Intelligence
+  - Cyber Security
   - Innovation
-  - Technology
 
 Vision:
-  Build solutions that create impact.
+  Build technology that creates real impact.
 ```
 
 ---
 
 # 🛠 TECH STACK
 
-## Frontend
+## 🎨 Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
-## Backend
+## ⚙ Backend
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
 </p>
 
-## Database & Cloud
+## 🗄 Database & Cloud
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,firebase" />
 </p>
 
-## Dev Tools
+## 🛠 Dev Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,npm" />
 </p>
 
 ---
@@ -128,7 +138,18 @@ Vision:
 
 ```text
 Linux
+
 Web Security
+
+OWASP
+
+Network Security
+
+Ethical Hacking
+
+Penetration Testing
+
+Bug Hunting
 ```
 ---
 
@@ -136,9 +157,9 @@ Web Security
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=haarshaacharya&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=haarshaacharya&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haarshaacharya&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=haarshaacharya&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" />
 
 </div>
 
@@ -148,7 +169,7 @@ Web Security
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=haarshaacharya&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=haarshaacharya&theme=tokyonight&hide_border=true&border_radius=12" />
 
 </div>
 
@@ -158,7 +179,7 @@ Web Security
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=haarshaacharya&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=haarshaacharya&theme=tokyo-night&hide_border=true" width="100%" />
 
 </div>
 
@@ -167,15 +188,17 @@ Web Security
 # 🚀 CURRENTLY BUILDING
 
 ```text
- Nlinqs
-
-🌐 Modern Web Applications
+🚀 Nlinqes Platform
 
 🤖 AI Integrations
 
-🛡 Security Projects
+🌐 Modern Web Applications
+
+🛡 Cyber Security Projects
 
 💡 Startup MVPs
+
+⚡ Developer Tools
 ```
 
 ---
@@ -185,45 +208,85 @@ Web Security
 ```text
 🚀 Startups
 
-💡 Innovation
+🤖 Artificial Intelligence
 
 🛡 Cyber Security
 
-🎨 Logo Design
-
-🌐 Web Development
+🌐 Full Stack Development
 
 ⚡ Open Source
+
+🎨 Logo Design
+
+📱 UI / UX
+
+☁ Cloud Computing
 ```
 
----
-
-# 🌍 CONNECT
+# 🌍 CONNECT WITH ME
 
 <div align="center">
 
 <a href="https://github.com/haarshaacharya">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/haarsh-aacharya-ha31/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:haarshaacharya@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
 </a>
 
 </div>
 
 ---
 
+# 📫 CONTACT
+
+```yaml
+Name:
+  Haarsh Aacharya
+
+Role:
+  Founder & Full Stack Developer
+
+Company:
+  Nlinqes
+
+Focus:
+  Full Stack Development
+  Artificial Intelligence
+  Cyber Security
+
+Open For:
+  Collaboration
+  Startup Projects
+  Open Source
+```
+
+# ⚡ DAILY GOALS
+
+```text
+☕ Learn Something New
+
+🚀 Build Amazing Products
+
+🛡 Improve Security Skills
+
+🤝 Help Developers
+
+💡 Keep Innovating
+```
+
 <div align="center">
 
-## 💭 Philosophy
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:007CF0&height=120&section=footer"/>
 
-> "The best way to predict the future is to build it."
-
-### 🚀 Build • Innovate • Scale
-
-<br>
-
-### HAARSH AACHARYA
-
+#  HAARSH AACHARYA
 </div>
