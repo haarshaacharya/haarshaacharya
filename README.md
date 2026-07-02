@@ -6,7 +6,7 @@
 🚀 Full Stack Developer • 🛡️ Cyber Security Enthusiast • 🎨 Logo Designer
 </h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2200&pause=700&color=00D9FF&center=true&vCenter=true&width=950&lines=Cyber+Security+Explorer;Founder+of+Storagge;Founder+of+Nlinqs;Startup+Builder;Innovation+Driven+Developer;Building+Modern+Digital+Products;Open+Source+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2200&pause=700&color=00D9FF&center=true&vCenter=true&width=950&lines=Cyber+Security+Explorer;Founder+of+Storagge;Founder+of+Nlinqes;Startup+Builder;Innovation+Driven+Developer;Building+Modern+Digital+Products;Open+Source+Enthusiast" />
 
 <br>
 
