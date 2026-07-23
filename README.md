@@ -82,30 +82,6 @@ const haarsh = {
 ```
 
 ---
-
-# 🚀 FOUNDER
-
-## Nlinqes
-
-> Building modern digital experiences and innovative software products.
-
-```yaml
-Role:
-  Founder
-
-Focus:
-  - Product Development
-  - Startups
-  - Artificial Intelligence
-  - Cyber Security
-  - Innovation
-
-Vision:
-  Build technology that creates real impact.
-```
-
----
-
 # 🛠 TECH STACK
 
 ## 🎨 Frontend
@@ -225,19 +201,13 @@ Bug Hunting
 
 # 🌍 CONNECT WITH ME
 
-<div align="center">
-
 <a href="https://github.com/haarshaacharya">
 <img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
 
-&nbsp;&nbsp;
-
 <a href="https://www.linkedin.com/in/haarsh-aacharya-ha31/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
-
-&nbsp;&nbsp;
 
 <a href="mailto:haarshaacharya@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
