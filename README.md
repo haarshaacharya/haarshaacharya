@@ -2,7 +2,7 @@
 
 <h1>HAARSH AACHARYA</h1>
 
-<p><b>Founder & Full Stack Developer</b></p>
+<p><b>Founder & Developer</b></p>
 
 <p>
   <a href="https://github.com/haarshaacharya">GitHub</a> • 
@@ -18,7 +18,7 @@
 
 Building scalable products, exploring algorithmic trading strategies, and designing secure digital architecture.
 
-* **Ventures:** Founder at Nlinqes & Storagge
+* **Ventures:** Founder of Nlinqes & Storagge
 * **Core Domains:** Full Stack Development, Cyber Security, AI Systems
 * **Interests:** Stock Market Algorithms, Product Marketing, Business Strategy
 
