@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>HAARSH AACHARYA</h1>
+<h1>Haarsh Aacharya</h1>
 
 <p><b>Founder & Developer</b></p>
 
