@@ -60,8 +60,11 @@ Building scalable products, exploring algorithmic trading strategies, and design
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=haarshaacharya&theme=github-dark&hide_border=true&cache=0" width="100%" />
-
+<img
+  src="https://github-readme-activity-graph-ivory-iota.vercel.app/graph?username=haarshaacharya&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff&hide_border=true&custom_title=contribution%20activity&days=31"
+  width="100%"
+  alt="Haarsh Aacharya GitHub Contribution Activity"
+/>
 </div>
 
 ---
