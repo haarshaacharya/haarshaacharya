@@ -18,7 +18,7 @@ Building scalable products, exploring algorithmic trading strategies, and design
 
 * **Ventures:** Founder of Nlinqes & Storagge
 * **Core Domains:** Full Stack Development, Cyber Security, AI Systems
-* **Interests:** Stock Market Algorithms, Product Marketing, Business Strategy
+* **Interests:** Stock Market, Product Marketing, Business Strategy
 
 ---
 
